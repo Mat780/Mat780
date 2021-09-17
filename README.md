@@ -9,8 +9,6 @@
 </div>
  <br>
 <div  align="center">  
-  ![Snake animation](https://github.com/Mat780)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-![readme](https://github-readme-stats.vercel.app/api/pin/?username=Mat780&repo=Mat780&theme=react)](https://github.com/Mat780/Mat780)

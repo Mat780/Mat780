@@ -6,16 +6,16 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat780&layout=compact&langs_count=7&theme=midnight-purple" />
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Matheus-Python" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="Matheus-C" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img align="center" alt="Matheus-C#" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Matheus-HTML5" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="Matheus-CSS3#" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="Matheus-Vue.Js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="Matheus-Unity" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-    <img align="center" alt="Matheus-Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Matheus-Github" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-    <!-- <img align="center" alt="Matheus-C#" height="30" width="40" src=""> -->
+    <img align="center" alt="Python" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="C" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img align="center" alt="C#" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img align="center" alt="HTML5" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="JavaScript" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="CSS3" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="Vue.Js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="Unity" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    <img align="center" alt="Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Github" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
   
  ##
